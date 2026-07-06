@@ -92,6 +92,8 @@ Configured the dashboard so that selecting a factory automatically filters the m
 
 ### Dashboard
 
+> ![Dashboard](Task1_Dashboard_screenshot.png)
+
 > <img width="1920" height="1028" alt="Task1_Dashboard" src="https://github.com/user-attachments/assets/bfadda22-9daa-42d6-8a8e-34357d6daa97" />
 
 ---
