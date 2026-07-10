@@ -14,7 +14,7 @@ The simulation provides practical experience with real-world data analytics proj
 
 ## Repository Structure
 
-### 📂 Task 1 – Data Analysis
+### 📂 [Task 1 – Data Analysis](./Task%201:%20Data%20Analysis)
 
 In this task, I analyzed business data to identify key trends and performance metrics. The objective was to transform raw data into meaningful insights and present them through an interactive dashboard for effective decision-making.
 
@@ -22,7 +22,7 @@ In this task, I analyzed business data to identify key trends and performance me
 
 ---
 
-### 📂 Task 2 – Forensic Technology
+### 📂 [Task 2 – Forensic Technology](./Task%202-%20Forensic%20Technology)
 
 This task focused on a forensic technology scenario involving data analysis to identify suspicious patterns and support an investigation. The objective was to interpret the findings and communicate clear, evidence-based business recommendations.
 
